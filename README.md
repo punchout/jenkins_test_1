@@ -1,2 +1,3 @@
 # jenkins_test_1
-first test 
+first test
+echo $PATH 
